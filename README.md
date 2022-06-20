@@ -23,6 +23,14 @@
 
 - The output of the logistic function is not symmetric around zero. So the output of all the neurons will be of the same sign. This makes the training of the neural network more difficult and unstable.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Algorithm
 
 1. Import packages.
@@ -94,6 +102,11 @@ if __name__=="__main__":
 ![img](https://user-images.githubusercontent.com/75413726/168847773-79fb68b2-81d5-4dc1-a1ed-8c3a866f2231.jpg)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Result:
 
